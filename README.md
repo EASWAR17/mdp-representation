@@ -37,12 +37,13 @@ Moving Right
 
 2.0 - Otherwise
 ### Graphical Representation
-![RL_page-0001](https://github.com/Dhanudhanaraj/mdp-representation/assets/119218812/c9c5fc75-92d5-4db0-a372-212edbb438c1)
+
+![img1](https://github.com/EASWAR17/mdp-representation/assets/94154683/9000c390-49ad-412f-b6f7-adaadc968d70)
 
 ## PYTHON REPRESENTATION:
 ```
-# Developed by: DHANUMALYA D
-# Register Number: 212222230030
+# Developed by: Easwar J
+# Register Number: 212221230024
 
 P = {
     0:{
@@ -61,7 +62,8 @@ P = {
 
 ```
 ## OUTPUT:
-![Screenshot 2024-02-18 214941](https://github.com/Dhanudhanaraj/mdp-representation/assets/119218812/6eba07da-65b4-497d-92fd-426e48a17985)
+![image](https://github.com/EASWAR17/mdp-representation/assets/94154683/45db2831-434b-48f0-a36b-6c0843d4d417)
+
 
 
 ## RESULT:
